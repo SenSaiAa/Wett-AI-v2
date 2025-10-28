@@ -1,0 +1,24 @@
+{
+  "fixture_id": 987654,
+  "home_team": "Hamburger SV",
+  "away_team": "FC St. Pauli",
+  "kickoff": "2025-02-15T18:30:00",
+  "league": "2. Bundesliga",
+  "season": 2024,
+  "odds": {
+    "1X2": {"1": 2.10, "X": 3.40, "2": 3.40},
+    "Draw No Bet": {"home": 1.60, "away": 2.30},
+    "Double Chance": {"1X": 1.30, "12": 1.33, "X2": 1.65},
+    "Over/Under 2.5": {"Over 2.5": 1.85, "Under 2.5": 1.95},
+    "BTTS": {"Yes": 1.80, "No": 1.95}
+  },
+  "data_quality": "A",
+  "lineup_confidence": 0.9,
+  "expected_goals_home": 1.75,
+  "expected_goals_away": 1.30,
+  "covariance": 0.06,
+  "coach_notes": "Neuer Coach, drei Spiele ungeschlagen",
+  "player_notes": "Torwart fraglich (50%), Top-Stürmer gesperrt",
+  "rest_days_home": 7,
+  "rest_days_away": 5
+}
